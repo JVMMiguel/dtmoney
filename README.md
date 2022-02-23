@@ -1,4 +1,4 @@
-# dyMoney - Trilha Ignite da Rocketseat
+# dyMoney - Segundo Capítulo da Trilha Ignite da Rocketseat
 
 <p>A aplicação tem como finalidade oferecer uma forma do usuário fazer o controle de suas entradas e saídas, servindo como um controle financeiro.</p>
 <p>Nesta aplicação foi desenvolvido um dashboard onde o usuário pode listar todas as suas entradas/saídas e ter um panorama do gastos e entradas totais. E também uma modal onde ele pode estar fazendo novos lançamentos.</p>
