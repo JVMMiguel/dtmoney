@@ -16,6 +16,17 @@
 
 <br />
 
+<p>Abaixo temos algumas screenshots da aplicação em execução: </p>
+
+![Alt Text](src/assets/toreadme/dtmoney.png)
+
+<br />
+
+![Alt Text](src/assets/toreadme/dtmoney-entrada.png)
+
+<br />
+
+![Alt Text](src/assets/toreadme/dtmoney-saida.png)
 ## 🔧 Instruções para executar a Aplicação localmente
 
 <br />
